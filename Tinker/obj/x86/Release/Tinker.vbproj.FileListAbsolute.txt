@@ -1,0 +1,19 @@
+D:\Meus Trabalhos\Visual Basic .NET - Tinker\Tinker\bin\Release\Tinker.exe
+D:\Meus Trabalhos\Visual Basic .NET - Tinker\Tinker\bin\Release\Tinker.pdb
+D:\Meus Trabalhos\Visual Basic .NET - Tinker\Tinker\bin\Release\Tinker.xml
+D:\Meus Trabalhos\Visual Basic .NET - Tinker\Tinker\obj\x86\Release\Tinker.frmCadastroClientes.resources
+D:\Meus Trabalhos\Visual Basic .NET - Tinker\Tinker\obj\x86\Release\Tinker.frmClientes.resources
+D:\Meus Trabalhos\Visual Basic .NET - Tinker\Tinker\obj\x86\Release\Tinker.frmMain.resources
+D:\Meus Trabalhos\Visual Basic .NET - Tinker\Tinker\obj\x86\Release\Tinker.Resources.resources
+D:\Meus Trabalhos\Visual Basic .NET - Tinker\Tinker\obj\x86\Release\Tinker.vbproj.GenerateResource.Cache
+D:\Meus Trabalhos\Visual Basic .NET - Tinker\Tinker\obj\x86\Release\Tinker.exe
+D:\Meus Trabalhos\Visual Basic .NET - Tinker\Tinker\obj\x86\Release\Tinker.xml
+D:\Meus Trabalhos\Visual Basic .NET - Tinker\Tinker\obj\x86\Release\Tinker.pdb
+D:\Meus Trabalhos\Visual Basic .NET - Tinker\Tinker\bin\Release\SQLite.Interop.dll
+D:\Meus Trabalhos\Visual Basic .NET - Tinker\Tinker\bin\Release\TinkerDB.s3db
+D:\Meus Trabalhos\Visual Basic .NET - Tinker\Tinker\bin\Release\System.Data.SQLite.dll
+D:\Meus Trabalhos\Visual Basic .NET - Tinker\Tinker\bin\Release\System.Data.SQLite.pdb
+D:\Meus Trabalhos\Visual Basic .NET - Tinker\Tinker\obj\x86\Release\Tinker.frmInfo.resources
+D:\Meus Trabalhos\Trabalhos - 2016\Visual Basic .NET - Tinker\Tinker\obj\x86\Release\Tinker.exe
+D:\Meus Trabalhos\Trabalhos - 2016\Visual Basic .NET - Tinker\Tinker\obj\x86\Release\Tinker.xml
+D:\Meus Trabalhos\Trabalhos - 2016\Visual Basic .NET - Tinker\Tinker\obj\x86\Release\Tinker.pdb

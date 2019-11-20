@@ -1,0 +1,17 @@
+D:\Meus Trabalhos\Visual Basic .NET - Tinker\Tinker\obj\x86\Debug\Tinker.frmMain.resources
+D:\Meus Trabalhos\Visual Basic .NET - Tinker\Tinker\obj\x86\Debug\Tinker.Resources.resources
+D:\Meus Trabalhos\Visual Basic .NET - Tinker\Tinker\obj\x86\Debug\Tinker.vbproj.GenerateResource.Cache
+D:\Meus Trabalhos\Visual Basic .NET - Tinker\Tinker\bin\Debug\Tinker.exe
+D:\Meus Trabalhos\Visual Basic .NET - Tinker\Tinker\bin\Debug\Tinker.pdb
+D:\Meus Trabalhos\Visual Basic .NET - Tinker\Tinker\bin\Debug\Tinker.xml
+D:\Meus Trabalhos\Visual Basic .NET - Tinker\Tinker\obj\x86\Debug\Tinker.exe
+D:\Meus Trabalhos\Visual Basic .NET - Tinker\Tinker\obj\x86\Debug\Tinker.xml
+D:\Meus Trabalhos\Visual Basic .NET - Tinker\Tinker\obj\x86\Debug\Tinker.pdb
+D:\Meus Trabalhos\Visual Basic .NET - Tinker\Tinker\obj\x86\Debug\Tinker.frmCadastroClientes.resources
+D:\Meus Trabalhos\Visual Basic .NET - Tinker\Tinker\obj\x86\Debug\Tinker.frmClientes.resources
+D:\Meus Trabalhos\Visual Basic .NET - Tinker\Tinker\obj\x86\Debug\Tinker.vbprojResolveAssemblyReference.cache
+D:\Meus Trabalhos\Visual Basic .NET - Tinker\Tinker\obj\x86\Debug\Tinker.frmInfo.resources
+D:\Meus Trabalhos\Visual Basic .NET - Tinker\Tinker\bin\Debug\System.Data.SQLite.dll
+D:\Meus Trabalhos\Visual Basic .NET - Tinker\Tinker\bin\Debug\System.Data.SQLite.pdb
+D:\Meus Trabalhos\Visual Basic .NET - Tinker\Tinker\bin\Debug\SQLite.Interop.dll
+D:\Meus Trabalhos\Visual Basic .NET - Tinker\Tinker\bin\Debug\TinkerDB.s3db
